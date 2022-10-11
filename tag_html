@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+</body>
+<h1>Tugas pemograman web</h1>
+<p>Tag html</p>
+
+<h3>To Do List</h3>
+<ol>
+	<li>Bangun pagi</li>
+	<li>Solat shubuh</li>
+	<li>Sarapan</li>
+	<li>Ngopi</li>
+<p>Klik <a href="Halaman2.html" target="_blank">disini</a> untuk mengetahui informasi lebih lanjut.</p> <br>
+<address>
+Written by <a href="ardiahmaddd@gmail.com">ardi ahmad</a>.<br>
+
+
+	<p> - !DOCTYPE html adalah tag untuk menetukan tipe dokumen</p>
+	<p> - html adalah tag pembuka untuk membuat dokumen html</p>
+	<p> - head informasi tentang dokumen</p>
+	<p> - title tag untuk membuat judul dari sebuah halaman</p>
+	<p> - body tag untuk membuat isi konten dari sebuah halaman</p>
+	<p> - h1 - h6 tag untuk membuat heading</p>
+	<p> - p adalah tag untuk membuat paragraf</p>
+	<p> - li untuk membuat sebuah list</p>
+	<p> - tag a mendefinisikan hyperlink, yang digunakan untuk menghubungkan dari satu halaman ke halaman lainnya.</p>
+	<!-- <address> mendefinisikan informasi kontak untuk penulis/pemilik dokumen atau artikel berupa alamat email, URL.</address>
+<br> <!-- tag untuk membuat garis putus -->
+
+
+
+</html> 
